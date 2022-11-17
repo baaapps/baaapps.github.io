@@ -229,3 +229,15 @@ triplelift.com, 12913, reseller, 6c33edb13117fd86
 inmobi.com, 94262e51745c4a88863d51a61d0af6b6, reseller, 83e75a7ae333ca9d
 video.unrulymedia.com, 9085206363819624071, direct
 themediagrid.com, 6xgfyq, direct, 35d5010d7789b49d
+openx.com, 544015448, reseller, 6a698e2ec38604c6
+contextweb.com, 562669, reseller, 89ff185a4c4e857c
+conversantmedia.com, 100269, reseller, 03113cd04947736d
+algorix.co, 60543, direct, 5b394c12fea27a1d
+krushmedia.com, ajxf6r351a9m6catvk, reseller
+smartadserver.com, 4478, reseller
+video.unrulymedia.com, 9085206363819624071, reseller
+xapads.com, 117234, direct
+pubmatic.com, 157704, reseller, 5d62403b186f2ace
+contextweb.com, 562842, reseller, 89ff185a4c4e857c
+improvedigital.com, 1416, reseller
+appnexus.com, 13356, direct
