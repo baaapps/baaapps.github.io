@@ -241,3 +241,7 @@ pubmatic.com, 157704, reseller, 5d62403b186f2ace
 contextweb.com, 562842, reseller, 89ff185a4c4e857c
 improvedigital.com, 1416, reseller
 appnexus.com, 13356, direct
+bidence.com, 6b4d42a1cce9ec666dc51e090227b3c9, reseller
+acexchange.co.kr, 1081983882, reseller
+tpmn.io, 406, reseller
+mman.kr, 32213, reseller
