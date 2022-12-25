@@ -251,3 +251,9 @@ app-stock.com, 317847, reseller
 thebrave.io, 1234589, reseller, c25b2154543746ac
 gitberry.com, 577, reseller
 pubmatic.com, 156319, reseller, 5d62403b186f2ace
+xandr.com, 13117, direct
+yahoo.com, 59480, reseller, e1a5b5b6e3255540
+rubiconproject.com, 13136, reseller, 0bfd66d529a55807
+contextweb.com, 562329, reseller, 89ff185a4c4e857c
+smartadserver.com, 4539, reseller, 060d053dcf45cbf3
+visiblemeasures.com, 1011, direct
