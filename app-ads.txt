@@ -259,3 +259,8 @@ smartadserver.com, 4539, reseller, 060d053dcf45cbf3
 visiblemeasures.com, 1011, direct
 acexchange.co.kr, 1746357004, reseller
 ucfunnel.com, par-273a3483aad2e838c883d29aed8d4894, reseller
+pubmatic.com, 161018, reseller, 5d62403b186f2ace
+pubmatic.com, 161344, reseller, 5d62403b186f2ace
+sonobi.com, ac6f1a9ded, reseller, d1a215d9eb5aee9e
+rubiconproject.com, 25060, reseller, 0bfd66d529a55807
+improvedigital.com, 1805, reseller
