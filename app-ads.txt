@@ -179,3 +179,27 @@ openx.com, 540679900, reseller, 6a698e2ec38604c6
 pubmatic.com, 158060, reseller, 5d62403b186f2ace
 conversantmedia.com, 100358, reseller, 03113cd04947736d
 smartadserver.com, 4573, reseller, 060d053dcf45cbf3
+pokkt.com, 7092, reseller, c45702d9311e25fd
+conversantmedia.com, 100339, reseller, 03113cd04947736d
+opera.com, pub5925993551616, reseller, 55a0c5fd61378de3
+pubmatic.com, 163420, reseller, 5d62403b186f2ace
+video.unrulymedia.com, 2464975885, reseller
+brightcom.com, 29555, reseller
+yeahmobi.com, 114122, reseller
+meitu.com, 755, reseller
+algorix.co, 60543, reseller, 5b394c12fea27a1d
+sonobi.com, c58cf86903, reseller, d1a215d9eb5aee9e
+outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, reseller
+sonobi.com, 1cdc3b298d, reseller, d1a215d9eb5aee9e
+vidoomy.com, 5053058, reseller
+zmaticoo.com, 114122, reseller
+mgid.com, 782767, reseller, d4c29acad76ce94f
+inmobi.com, 12a9a79d60214a40a444a6103b81747c, reseller, 83e75a7ae333ca9d
+webeyemob.com, 70171, reseller
+outbrain.com, 00dbc7a68d0cd51d55ac0aa9e1918c9a34, reseller
+pubmatic.com, 163476, reseller, 5d62403b186f2ace
+amitydigital.io, 489, reseller
+appnexus.com, 12447, reseller, f5ab79cb980f11d1
+pubmatic.com, 161151, reseller, 5d62403b186f2ace
+pubmatic.com, 162588, reseller, 5d62403b186f2ace
+pubmatic.com, 163120, reseller, 5d62403b186f2ace
