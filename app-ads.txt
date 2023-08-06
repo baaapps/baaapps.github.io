@@ -203,3 +203,8 @@ appnexus.com, 12447, reseller, f5ab79cb980f11d1
 pubmatic.com, 161151, reseller, 5d62403b186f2ace
 pubmatic.com, 162588, reseller, 5d62403b186f2ace
 pubmatic.com, 163120, reseller, 5d62403b186f2ace
+gitberry.com, 405100012, reseller
+olaex.biz, 100131, reseller
+rubiconproject.com, 24362, reseller, 0bfd66d529a55807
+inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, reseller, 83e75a7ae333ca9d
+inmobi.com, 38e36193f3c944d0b6254c71e511041b, reseller, 83e75a7ae333ca9d
