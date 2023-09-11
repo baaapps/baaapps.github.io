@@ -208,3 +208,20 @@ olaex.biz, 100131, reseller
 rubiconproject.com, 24362, reseller, 0bfd66d529a55807
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, reseller, 83e75a7ae333ca9d
 inmobi.com, 38e36193f3c944d0b6254c71e511041b, reseller, 83e75a7ae333ca9d
+rubiconproject.com, 14558, reseller, 0bfd66d529a55807
+xapads.com, 193890, reseller
+google.com, pub-3990748024667386, reseller, f08c47fec0942fa0
+pubmatic.com, 162882, reseller, 5d62403b186f2ace
+pubmatic.com, 163319, reseller, 5d62403b186f2ace
+video.unrulymedia.com, 524101463, reseller, 29bc7d05d309e1bc
+toponad.com, 164b751901a8b7, reseller, 1d49fe424a1a456d
+pubmatic.com, 162968, reseller, 5d62403b186f2ace
+loopme.com, 11635, reseller, 6c8d5f95897a5a3b
+vidoomy.com, 7646534, reseller
+conversantmedia.com, 100569, reseller, 03113cd04947736d
+adelement.com, 36011, reseller
+adelement.com, 36012, reseller
+mobimight.com, 36011, reseller
+elixirvideo.co, 36011, reseller
+ubrikvideo.com, 36011, reseller
+pubnative.net, 1008770, reseller, d641df8625486a7b
